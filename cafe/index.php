@@ -65,7 +65,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Bienvenido a <br> Le Repos</strong></h1>
+							<h1 class="m-b-20"><strong>Bienvenido</strong></h1>
 							<p class="m-b-40">Ve el menu de <br>nuestra cafeteria escolar.</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="menu.php">Menu</a></p>
 						</div>
@@ -77,7 +77,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Bienvenido a <br> Le Repos</strong></h1>
+							<h1 class="m-b-20"><strong>Bienvenido</strong></h1>
 							<p class="m-b-40">Ve el menu de <br>nuestra cafeteria escolar.</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="menu.php">Menu</a></p>
 						</div>
@@ -89,7 +89,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Bienvenido a <br> Le Repos</strong></h1>
+							<h1 class="m-b-20"><strong>Bienvenido </strong></h1>
 							<p class="m-b-40">Ve el menu de <br>nuestra cafeteria escolar.</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="menu.php">Menu</a></p>
 						</div>
@@ -133,7 +133,7 @@
 					<p class="lead ">
 					  Sabores que inspiran, aromas que despiertan y momentos que unen.
 					</p>
-					<span class="lead">ChatGPT</span>
+					
 				</div>
 			</div>
 		</div>
@@ -251,9 +251,9 @@
 				<div class="col-md-4 arrow-right">
 					<i class="fa fa-volume-control-phone"></i>
 					<div class="overflow-hidden">
-						<h4>Phone</h4>
+						<h4>Telefono</h4>
 						<p class="lead">
-							+01 123-456-4590
+							246-133-13-74
 						</p>
 					</div>
 				</div>
@@ -262,16 +262,16 @@
 					<div class="overflow-hidden">
 						<h4>Email</h4>
 						<p class="lead">
-							yourmail@gmail.com
+							espinozacoronad@gmail.com
 						</p>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<i class="fa fa-map-marker"></i>
 					<div class="overflow-hidden">
-						<h4>Location</h4>
+						<h4>Direccion</h4>
 						<p class="lead">
-							800, Lorem Street, US
+							CBTiS 03
 						</p>
 					</div>
 				</div>
@@ -285,17 +285,20 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-6">
-					<h3>About Us</h3>
-					<p>Integer cursus scelerisque ipsum id efficitur. Donec a dui fringilla, gravida lorem ac, semper magna. Aenean rhoncus ac lectus a interdum. Vivamus semper posuere dui.</p>
+					<h3>Acerca de nosotros</h3>
+					<p>Desde su apertura, la cafetería escolar se ha dedicado a ofrecer un espacio acogedor y nutritivo para nuestros estudiantes.Con menús saludables y alimentos frescos, buscamos fomentar buenos hábitos alimenticios y crear un lugar de encuentro que fortalezca la comunidad escolar.</p>
 				</div>
+				
 				<div class="col-lg-3 col-md-6">
-					<h3>Subscribe</h3>
+					<h3>Siguenos</h3>
 					<div class="subscribe_form">
+						<!-- 
 						<form class="subscribe_form">
 							<input name="EMAIL" id="subs-email" class="form_input" placeholder="Email Address..." type="email">
 							<button type="submit" class="submit">SUBSCRIBE</button>
 							<div class="clearfix"></div>
 						</form>
+						-->
 					</div>
 					<ul class="list-inline f-social">
 						<li class="list-inline-item"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -306,17 +309,16 @@
 					</ul>
 				</div>
 				<div class="col-lg-3 col-md-6">
-					<h3>Contact information</h3>
-					<p class="lead">Ipsum Street, Lorem Tower, MO, Columbia, 508000</p>
-					<p class="lead"><a href="#">+01 2000 800 9999</a></p>
-					<p><a href="#"> info@admin.com</a></p>
+					<h3>Informacion de contacto</h3>
+					<p class="lead">CBTiS 03</p>
+					<p class="lead"><a href="#">246-133-13-74</a></p>
+					<p><a href="#"> espinozacoronad@gmail.com</a></p>
 				</div>
 				<div class="col-lg-3 col-md-6">
-					<h3>Opening hours</h3>
-					<p><span class="text-color">Monday: </span>Closed</p>
-					<p><span class="text-color">Tue-Wed :</span> 9:Am - 10PM</p>
-					<p><span class="text-color">Thu-Fri :</span> 9:Am - 10PM</p>
-					<p><span class="text-color">Sat-Sun :</span> 5:PM - 10PM</p>
+					<h3>Horarios</h3>
+					<p><span class="text-color">Domingo: </span>Cerrado</p>
+					<p><span class="text-color">lunes a sabado :</span> 7Am - 8PM</p>
+					
 				</div>
 			</div>
 		</div>

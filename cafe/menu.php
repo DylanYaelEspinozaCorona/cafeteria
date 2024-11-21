@@ -100,9 +100,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal1.jpeg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Sandwich</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $7.79</h5>
+											<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -111,9 +111,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal6.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 2</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $9.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -122,9 +122,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida1.jpeg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $10.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -133,9 +133,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 1</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $15.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -144,9 +144,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida4.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 2</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $18.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -155,9 +155,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida5.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -166,9 +166,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida6.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 1</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $25.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -177,9 +177,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida.jpeg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 2</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $22.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -188,9 +188,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -198,9 +198,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal5.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -208,9 +208,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bebida.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -218,9 +218,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bebida1.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -228,9 +228,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bebida2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -238,9 +238,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal3.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -248,9 +248,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal4.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -258,9 +258,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -268,9 +268,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo1.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -278,9 +278,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -288,9 +288,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo3.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -298,9 +298,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo4.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -313,9 +313,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 1</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $7.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -324,9 +324,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal5.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 2</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $9.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -335,9 +335,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bebida.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $10.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -345,9 +345,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bebida1.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $10.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -355,9 +355,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bebida2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Drinks 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $10.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -370,9 +370,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal1.jpeg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 1</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $15.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -381,9 +381,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/gal6.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 2</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $18.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -392,9 +392,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida1.jpeg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -402,9 +402,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -412,9 +412,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida4.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -422,9 +422,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida5.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -432,9 +432,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida6.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -442,9 +442,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/comida.jpeg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Lunch 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $20.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -456,9 +456,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 1</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $25.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -467,9 +467,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo1.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 2</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $22.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -478,9 +478,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo2.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -488,9 +488,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo3.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+										<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
@@ -498,9 +498,9 @@
 									<div class="gallery-single fix">
 										<img src="imgcafeteria/bocadillo4.jpg" class="img-fluid" alt="Image">
 										<div class="why-text">
-											<h4>Special Dinner 3</h4>
-											<p>Sed id magna vitae eros sagittis euismod.</p>
-											<h5> $24.79</h5>
+											<h4></h4>
+											<p></p>
+											<h5></h5>
 										</div>
 									</div>
 								</div>
